@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Coins
+  - ground
+  - CurveGround
+  - Question
+  - Fireflower
+  - GoombaDeath
+  - DestroyParticleSystem
+  - GoombaEnemy
+  - Crate
+  - Pipe
+  - PipeDestination
+  - BrickBlock
+  - SecondCam
+  - MegaMushroom
+  - Tree
+  - MegaGoomba
+  - GreenStar
+  - 1UP Mushroom
+  - Flagpole
+  - FlagpoleEnd
+  - LevelEndPosition
+  - CameraEndPosition
+  - CourseClearText
+  - SceneManager
+  - LEVEL1
+  - LEVEL2
+  - Koopa
+  - KoopaShell
+  - Fireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - FireFlower
+  - Fireball
+  - Stuff
+  - Goomba
+  - EnemyWall
+  - Megamushroom
+  - Water
+  - NonLightAffected
+  - EventColliders
+  - CameraCollider
+  - IgnoreCameraView
+  - Koopa
+  - Extracolliders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

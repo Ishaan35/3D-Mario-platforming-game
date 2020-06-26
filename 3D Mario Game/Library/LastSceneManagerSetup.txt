@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Assets/Scenes/Level2-Cave.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,9 @@
+The First level of the game is not included in this project. To add it, go to this link:
+https://drive.google.com/file/d/1KeSBBt61VCIS2MUnc2s0Rv23GaqyAgjE/view?usp=sharing
+
+and download the file. Then put the file in the 3D Mario Game\Assets\Assets\Scenes folder.
+Then open the editor and go into the build settings and drag the scene file into the list of scenes.
+
+
+The game is best run at 60fps to avoid any lag with the moving enemies and other objects.
+

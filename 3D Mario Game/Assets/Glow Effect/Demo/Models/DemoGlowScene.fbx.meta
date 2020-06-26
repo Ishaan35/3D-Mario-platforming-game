@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: d1a65b60988651b4ebe7c44aeb14f942
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Lamp
+    100006: Lamp_001
+    100008: Lamp_002
+    100010: Lamp_003
+    100012: Lamp_004
+    100014: Lamp_005
+    100016: Lamp_006
+    100018: TallBuilding1
+    100020: MediumBuilding2
+    100022: BackBuildings
+    100024: CurvedBuilding1
+    100026: MediumBuilding1
+    100028: BillBoard
+    100030: LightCylinder1
+    100036: TallBuilding2
+    100038: TallBuilding3
+    100040: CurvedBuilding2
+    100042: ShortRectangleBuilding
+    100044: Cylinder
+    400000: //RootNode
+    400002: Camera
+    400004: Lamp
+    400006: Lamp_001
+    400008: Lamp_002
+    400010: Lamp_003
+    400012: Lamp_004
+    400014: Lamp_005
+    400016: Lamp_006
+    400018: TallBuilding1
+    400020: MediumBuilding2
+    400022: BackBuildings
+    400024: CurvedBuilding1
+    400026: MediumBuilding1
+    400028: BillBoard
+    400030: LightCylinder1
+    400036: TallBuilding2
+    400038: TallBuilding3
+    400040: CurvedBuilding2
+    400042: ShortRectangleBuilding
+    400044: Cylinder
+    2300000: TallBuilding1
+    2300002: MediumBuilding2
+    2300004: BackBuildings
+    2300006: CurvedBuilding1
+    2300008: MediumBuilding1
+    2300010: BillBoard
+    2300012: LightCylinder1
+    2300018: TallBuilding2
+    2300020: TallBuilding3
+    2300022: CurvedBuilding2
+    2300024: ShortRectangleBuilding
+    2300026: Cylinder
+    3300000: TallBuilding1
+    3300002: MediumBuilding2
+    3300004: BackBuildings
+    3300006: CurvedBuilding1
+    3300008: MediumBuilding1
+    3300010: BillBoard
+    3300012: LightCylinder1
+    3300018: TallBuilding2
+    3300020: TallBuilding3
+    3300022: CurvedBuilding2
+    3300024: ShortRectangleBuilding
+    3300026: Cylinder
+    4300000: CurvedBuilding2
+    4300002: TallBuilding3
+    4300004: TallBuilding2
+    4300006: LightCylinder3
+    4300008: LightCylinder2
+    4300010: LightCylinder1
+    4300012: BillBoard
+    4300014: MediumBuilding1
+    4300016: CurvedBuilding1
+    4300018: BackBuildings
+    4300020: MediumBuilding2
+    4300022: ShortRectangleBuilding
+    4300024: TallBuilding1
+    4300026: Cylinder
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

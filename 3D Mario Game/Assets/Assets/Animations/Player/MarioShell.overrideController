@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MarioShell
+  m_Controller: {fileID: 9100000, guid: 33edee12994007545b0c7065096e914c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3100369314251171874, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}
+    m_OverrideClip: {fileID: 7634005362319860716, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}
+  - m_OriginalClip: {fileID: 5539831331247536789, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}
+    m_OverrideClip: {fileID: -6078023468298067593, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}
+  - m_OriginalClip: {fileID: 5522812681064789136, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}
+    m_OverrideClip: {fileID: 1989289236423521904, guid: f486d34aec53da44d9452677825db89a,
+      type: 3}

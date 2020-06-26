@@ -1,0 +1,46 @@
+all used textures are CC0, some normalmaps are from the submitterers, the rest is self-made out of the textures
+
+
+
+earth-to-x.png
+based on image from http://www.burningwell.org
+
+
+earth_2.jpg
+earth_down.png
+based on images from http://opengameart.org/content/seamless-2, by arikel
+
+
+
+
+grass_2.jpg
+grass_end.png
+based on http://opengameart.org/content/synthetic-grass-texture-pack, by para
+
+
+
+
+
+
+
+
+
+
+
+stone_greenish.png
+http://opengameart.org/content/tilling-texture-pack-13,  by yughues
+
+stone3.jpg
+stones.jpg
+http://opengameart.org/content/free-tiling-textures-pack-53,  by yughues
+
+wood.png
+http://opengameart.org/content/light-wood-1024x1024, by qubodup
+
+wood2.png
+wood3.png
+based on images from http://www.burningwell.org
+
+wood4.jpg
+wood5.jpg
+http://opengameart.org/content/5-wood-textures, by Luke.RUSTLTD
